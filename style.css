@@ -1,4 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Londrina+Outline&family=Red+Hat+Display:wght@900&family=Red+Hat+Text:wght@400;700&display=swap');
 *{
-    margin: 0;
-    padding: 0;
+    margin: 4;
+    padding: 4;
+}
+body{
+    background-color: #404258;
+}
+.home h1{
+    font-family: 'Londrina Outline', cursive;
+    font-weight: 400;
+    text-align: left;
+}
+.bmi h1{
+    font-family: 'Londrina Outline', cursive;
+    font-weight: 400;
+    text-align: left;
+}
+h1{
+    font-family: 'Londrina Outline', cursive;
+    font-weight: 400;
+    text-align: center;
+}
+h3{
+    font-family: 'Kaushan Script',cursive;
+    color: darkgreen;
+    font-weight: 400;
+
+}
+span{
+    font-family: 'Red Hat Display',sans-serif;
+    color: white;
+    font-weight: 100;
+    text-align: center;
 }
